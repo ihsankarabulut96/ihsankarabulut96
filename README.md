@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ihsankarabulut96
 - 🌱 I’m currently learning DEVOPS
-- 📫 How to reach me @SPONCANT twitter
 
 <!---
 ihsankarabulut96/ihsankarabulut96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
