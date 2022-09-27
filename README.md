@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ihsankarabulut96
-- 🌱 I’m currently learning AWS and PowerShell
+- 🌱 I’m currently learning DEVOPS
 - 📫 How to reach me @SPONCANT twitter
 
 <!---
